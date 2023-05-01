@@ -7,6 +7,6 @@ function addUser(){
     localStorage.getItem(player1_name)
     localStorage.getItem(player2_name)
   //Assign "game_page.html" to window.location
-  window.location = "game_page.html";
+  window.location = "game_login.html";
 }
 
